@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 420">
+  <rect width="720" height="420" rx="30" fill="#17162b"/>
+  <circle cx="610" cy="84" r="100" fill="#9d7cff" opacity=".12"/><circle cx="112" cy="340" r="130" fill="#62e5e4" opacity=".1"/>
+  <path d="M96 100h470c25 0 45 20 45 45v112c0 25-20 45-45 45H292l-66 52 12-52H96c-25 0-45-20-45-45V145c0-25 20-45 45-45Z" fill="#f1f0fa" stroke="#080a14" stroke-width="9"/>
+  <text x="86" y="171" fill="#080a14" font-family="Arial,sans-serif" font-size="44" font-weight="900">NO GOOGLE.</text>
+  <text x="86" y="222" fill="#653cff" font-family="Arial,sans-serif" font-size="44" font-weight="900">NO PROBLEM.</text>
+  <text x="86" y="263" fill="#34344b" font-family="Arial,sans-serif" font-size="19" font-weight="700">Your form. Your link. Your signal.</text>
+  <g transform="translate(546 310) rotate(-12)"><rect width="108" height="58" rx="12" fill="#ff8b87" stroke="#080a14" stroke-width="7"/><text x="17" y="38" fill="#080a14" font-family="Arial,sans-serif" font-size="18" font-weight="900">BYE!</text></g>
+</svg>

@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 420 420">
+  <circle cx="210" cy="210" r="185" fill="#ff8b87" stroke="#080a14" stroke-width="12"/>
+  <path d="M104 181c0-61 48-107 106-107s106 46 106 107v58c0 61-48 107-106 107s-106-46-106-107v-58Z" fill="#f1f0fa" stroke="#080a14" stroke-width="9"/>
+  <circle cx="174" cy="200" r="12" fill="#080a14"/><circle cx="246" cy="200" r="12" fill="#080a14"/>
+  <path d="M158 246c27 24 54 24 81 0" fill="none" stroke="#080a14" stroke-width="9" stroke-linecap="round"/>
+  <path d="m112 93 15-31m177 31-15-31" stroke="#080a14" stroke-width="10" stroke-linecap="round"/>
+  <text x="210" y="342" text-anchor="middle" fill="#080a14" font-family="Arial,sans-serif" font-size="28" font-weight="900">THANK YOU!</text>
+</svg>

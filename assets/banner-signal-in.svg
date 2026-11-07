@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1440 420">
+  <defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#080a14"/><stop offset=".52" stop-color="#21193a"/><stop offset="1" stop-color="#102d35"/></linearGradient><linearGradient id="line" x1="0" x2="1"><stop stop-color="#62e5e4"/><stop offset=".5" stop-color="#9d7cff"/><stop offset="1" stop-color="#ff8b87"/></linearGradient></defs>
+  <rect width="1440" height="420" fill="url(#bg)"/>
+  <g fill="none" stroke="url(#line)" opacity=".42"><path d="M-20 330C260 70 410 420 708 170S1140 100 1480 288" stroke-width="3"/><path d="M-30 365C255 105 435 450 744 210s365-89 710 140" stroke-width="1"/><path d="M-20 292C254 38 472 365 728 135s420-26 738 122" stroke-width="1"/></g>
+  <g fill="#f1f0fa"><circle cx="170" cy="242" r="5"/><circle cx="705" cy="173" r="5"/><circle cx="1130" cy="190" r="5"/></g>
+  <text x="96" y="155" fill="#62e5e4" font-family="Arial,sans-serif" font-size="18" font-weight="700" letter-spacing="5">MUSE AI FORMS</text>
+  <text x="92" y="245" fill="#f1f0fa" font-family="Arial,sans-serif" font-size="78" font-weight="800" letter-spacing="-4">SIGNAL IN.</text>
+  <text x="620" y="245" fill="#ff8b87" font-family="Arial,sans-serif" font-size="78" font-weight="800" letter-spacing="-4">SIGNAL OUT.</text>
+  <text x="98" y="302" fill="#b9bad0" font-family="Arial,sans-serif" font-size="21">Build a form. Share a link. Let the answers find you.</text>
+</svg>
